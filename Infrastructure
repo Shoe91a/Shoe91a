@@ -1,0 +1,24 @@
+NETWORKING EQUIPMENT
+  TP-Link TL-SG105E | 5-port Managed Switch
+  DL-WRX36 - openWRT installed
+
+PHYSICAL MACHINES
+  x2 N100 4core
+     -476.8GB (available)
+     -16gb RAM
+     -Running Windows10 Education as HOST
+
+VIRTUAL MACHINES
+  x3 Linux Clients(guest)
+     -minimum requirements met
+     -distro not decided
+  x3 Win10 Clients (guest)
+     -Education version
+     -minimum requirements met
+  x2 Windows Server 2022 (guest)
+  x1 Linux Server(guest)
+     -distro not decided
+
+MISC HARDWARE
+  KVM
+  Peripherals required
